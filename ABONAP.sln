@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABONAP", "ABONAP.csproj", "{7AD73116-08CB-47FD-86C9-C64ECB30FE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD73116-08CB-47FD-86C9-C64ECB30FE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD73116-08CB-47FD-86C9-C64ECB30FE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD73116-08CB-47FD-86C9-C64ECB30FE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD73116-08CB-47FD-86C9-C64ECB30FE96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4960043C-A3C6-4C0E-A2B8-0A3CC60221DE}
+	EndGlobalSection
+EndGlobal

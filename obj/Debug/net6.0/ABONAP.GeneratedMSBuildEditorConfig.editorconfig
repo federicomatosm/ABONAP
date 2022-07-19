@@ -1,0 +1,224 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ABONAP
+build_property.RootNamespace = ABONAP
+build_property.ProjectDir = /Users/federicomatos/Source/GitHub/ABONAP/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/federicomatos/Source/GitHub/ABONAP
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Departamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Departamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Departamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Departamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Departamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0YW1lbnRvL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Documento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdW1lbnRvL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Documento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdW1lbnRvL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Documento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdW1lbnRvL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Documento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdW1lbnRvL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Documento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdW1lbnRvL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empleado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG8vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empleado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG8vRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empleado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG8vRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empleado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG8vRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empleado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbGVhZG8vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empresa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wcmVzYS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empresa/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wcmVzYS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empresa/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wcmVzYS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empresa/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wcmVzYS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Empresa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wcmVzYS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Persona/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Persona/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Persona/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Persona/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uYS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Prestamo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Prestamo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Prestamo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Prestamo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Prestamo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW8vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Sucursal/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Sucursal/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Sucursal/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Sucursal/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Sucursal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjdXJzYWwvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/TipoDocumento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50by9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/TipoDocumento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50by9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/TipoDocumento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50by9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/TipoDocumento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50by9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/TipoDocumento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50by9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/federicomatos/Source/GitHub/ABONAP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3awj39nuhm
