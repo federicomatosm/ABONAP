@@ -1,0 +1,11 @@
+1) ¿Qué diferencias existe entre las sentencias JOIN e INNER JOIN?
+No hay diferencia, ambos combinan el resultado de dos o mas tablas.
+
+2)¿Qué instrucción de SQL se puede ejecutar para eliminar la data de una tabla, pero conservando su estructura?
+delete o truncate table
+
+3) Escribir una consulta que devuelva las direcciones y nombres de las sucursales ABONAP y ordenar los resultados de forma descendiente por la sucursal
+SELECT s.descripcion, s.codigo from sucursal s join empresa e on s.EmpresaId = e.Id where e.descripcion ='ABONAP' 
+
+4) ¿Debe la cláusula WHERE aparecer siempre antes de la cláusula GROUP BY en una consulta SELECT?
+ puede existir una consulta con un grop by sin where pero si se necesita hacer el WHERE debe de estar antes del group by
